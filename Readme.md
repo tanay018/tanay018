@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanay</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Full stack development**
+- 🌱 I’m currently learning **MERN stack development**
 
 - 💬 Ask me about **ReactJs,DSA**
 
